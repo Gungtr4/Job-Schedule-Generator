@@ -1,0 +1,12 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "D:\\Item-Based-Collaborative-Filtering-master",
+  "password": false,
+  "pid": 29456,
+  "port": 8889,
+  "secure": false,
+  "sock": "",
+  "token": "5c8a5384c842cbb822d1b47bb86b6c561fb818246c30f399",
+  "url": "http://localhost:8889/"
+}

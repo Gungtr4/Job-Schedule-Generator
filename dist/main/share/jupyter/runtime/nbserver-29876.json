@@ -1,0 +1,12 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "D:\\item-based-movie-recommender-system-master",
+  "password": false,
+  "pid": 29876,
+  "port": 8888,
+  "secure": false,
+  "sock": "",
+  "token": "27b764bf408985bb137518e1244707e650a2ce44f4960269",
+  "url": "http://localhost:8888/"
+}
